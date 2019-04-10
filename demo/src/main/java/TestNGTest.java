@@ -16,5 +16,4 @@ public class TestNGTest {
         System.out.println("inside test");
     }
 
-
 }
